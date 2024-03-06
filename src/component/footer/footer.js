@@ -9,12 +9,10 @@ const Footer = props => {
           API : <a href="https://coinmarketcap.com/" target="_blank" rel="noopener noreferrer">CoinMarketCap</a>
         </div>
         <div className="contact">
-          <a href="https://github.com/sksarath" target="_blank" rel="noopener noreferrer">
+          /**<a href="https://github.com/sksarath" target="_blank" rel="noopener noreferrer">
               <img src={require("../../img/github.svg")} alt="Github"/>
-          </a>
-          <a href="https://in.linkedin.com/in/sarath-kumar-00955747" target="_blank" rel="noopener noreferrer">
-            <img src={require("../../img/linkedin.svg")} alt="Linkedin"/>
-          </a>
+          </a>**/
+          
         </div>
       </div>
     </div>
